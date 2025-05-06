@@ -33,7 +33,8 @@ draw_neural_net(
 ```
 
 prints
-![neural_net_drawing](https://github.com/user-attachments/assets/61a3084f-c64f-4c71-a5ff-0cf079d890e8)
+![neural_net_drawing](https://github.com/user-attachments/assets/0d83c9db-3ccf-4910-9bfd-50beeaae2131)
+
 
 The annotation parameters are written in `select_annotation_parameters`. Specifically:
 
